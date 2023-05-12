@@ -1,6 +1,6 @@
 <h1> Hello everybody! 👋 </h1>
 
-🫠 My name is Pedro and I’m currently working on Grupo CFN as an IT intern. <br>
+🙋‍♂️My name is Pedro and I’m currently working on Grupo CFN as an IT intern. <br>
 💻 Graduating in 2026, focusing on Software Analysis and Development. <br>
 🚀 I invite youse to take a look at my projects on GitHub. Feel free to contact me in any case :D
 
